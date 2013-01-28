@@ -1,10 +1,9 @@
-# Sirupsen.com
+# Articles and writing
 
-My personal website and blog.
+My personal blag.
 
 ## License
 
 All my blog posts in `_posts` are copyrighted. 
 
-You are welcome to use my design, in which case I would highly appreciate a link
-back to http://sirupsen.com
+You are welcome to use this design, which I forked from https://github.com/Sirupsen/sirupsen.github.com. See http://sirupsen.com for what it looks like.
